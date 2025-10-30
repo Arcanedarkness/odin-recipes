@@ -70,3 +70,9 @@ html, body {
     width: fit-content;
     text-decoration: underline;
 }
+
+.directions-list-container {
+    text-align: left;
+    width: 600px;
+    margin: 0 auto;
+}
