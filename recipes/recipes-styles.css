@@ -31,3 +31,9 @@ html, body {
     font-size: 2em;
     color: rgb(38, 13, 77);
 }
+
+.heading-recipe {
+    font-size: 2em;
+    margin-bottom: 1em;
+    text-decoration: underline;
+}
