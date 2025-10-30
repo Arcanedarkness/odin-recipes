@@ -8,3 +8,9 @@
     text-align: center;
     margin: 0 auto;
 }
+
+.heading-index {
+    text-align: center;
+    font-weight: 500;
+    color: rgb(38, 13, 77);
+}
