@@ -84,3 +84,7 @@ html, body {
     width: fit-content;
     text-align: left;
 }
+
+.directions-list-item {
+    margin: 1em 0.5em;
+}
