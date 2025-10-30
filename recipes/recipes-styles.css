@@ -72,6 +72,9 @@ html, body {
 }
 
 .directions-list-container {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
     text-align: left;
     width: 600px;
     margin: 0 auto;
