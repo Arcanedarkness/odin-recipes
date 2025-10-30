@@ -76,3 +76,8 @@ html, body {
     width: 600px;
     margin: 0 auto;
 }
+
+.directions-list {
+    width: fit-content;
+    text-align: left;
+}
