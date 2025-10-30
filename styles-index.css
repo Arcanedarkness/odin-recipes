@@ -14,3 +14,13 @@
     font-weight: 500;
     color: rgb(38, 13, 77);
 }
+
+.recipe-list-container {
+    text-align: center;
+}
+
+.recipe-list {
+    display: inline-block;
+    padding-left: 0;
+    list-style: none;
+}
