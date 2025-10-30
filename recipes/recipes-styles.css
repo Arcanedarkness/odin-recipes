@@ -20,7 +20,6 @@ html, body {
 .recipe-image {
     width: 400px;
     display: block;
-    justify-content: center;
     margin: auto;
 }
 
