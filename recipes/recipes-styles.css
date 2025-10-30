@@ -9,4 +9,10 @@ html, body {
 .body-container {
     background-color: aquamarine;
     height: fit-content;
+    text-align: center;
+}
+
+.title {
+    margin: 0 auto;
+    font-size: 8em;
 }
