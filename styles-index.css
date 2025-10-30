@@ -1,0 +1,10 @@
+/* styles-index.css */
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#title {
+    text-align: center;
+    margin: 0 auto;
+}
