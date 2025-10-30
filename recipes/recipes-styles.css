@@ -43,3 +43,14 @@ html, body {
     margin-bottom: 0.5em;
     margin-top: 1em;
 }
+
+.ingredients-list-container{
+    text-align: left;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.ingredients-list {
+    width: fit-content;
+    text-align: left;
+}
