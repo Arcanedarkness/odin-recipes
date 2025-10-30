@@ -25,6 +25,10 @@
     list-style: none;
 }
 
+.recipe-list-item-button {
+    margin: 5px auto;
+    box-sizing: border-box;
+}
 .recipe-list-item-link:link, .recipe-list-item-link:visited {
     color: black;
 }
