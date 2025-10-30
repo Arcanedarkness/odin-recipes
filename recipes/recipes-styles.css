@@ -16,3 +16,7 @@ html, body {
     margin: 0 auto;
     font-size: 8em;
 }
+
+.recipe-image {
+    width: fit-content;
+}
