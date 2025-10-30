@@ -28,7 +28,18 @@
 .recipe-list-item-button {
     margin: 5px auto;
     box-sizing: border-box;
+    width: 100%;
+    border-style: inset;
+    box-shadow: 0 7px lightblue;
+    border-radius: 10px;
 }
+
+.recipe-list-item-button:hover{
+    background-color: aqua;
+    box-shadow: 0 4px lightblue;
+    transform: translateY(3px);
+}
+
 .recipe-list-item-link:link, .recipe-list-item-link:visited {
     color: black;
 }
