@@ -56,7 +56,3 @@ html, body {
     box-shadow: 0 6px lightblue;
     transform: translateY(4px);
 }
-
-.recipe-list-item-link:link, .recipe-list-item-link:visited {
-    color: black;
-}
