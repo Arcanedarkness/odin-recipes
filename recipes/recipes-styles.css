@@ -18,5 +18,12 @@ html, body {
 }
 
 .recipe-image {
-    width: fit-content;
+    width: 400px;
+    display: block;
+    justify-content: center;
+    margin: auto;
+}
+
+.recipe-image-img {
+    width: 90%;
 }
