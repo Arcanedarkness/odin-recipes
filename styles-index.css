@@ -7,12 +7,14 @@
 #title {
     text-align: center;
     margin: 0 auto;
+    font-size: 8em;
 }
 
 .heading-index {
     text-align: center;
     font-weight: 500;
     color: rgb(38, 13, 77);
+    font-size: 2em;
 }
 
 .recipe-list-container {
@@ -33,6 +35,7 @@
     box-shadow: 0 7px lightblue;
     border-radius: 10px;
     cursor: pointer;
+    font-size: 2em;
 }
 
 .recipe-list-item-button:hover{
