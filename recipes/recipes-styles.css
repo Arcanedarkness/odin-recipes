@@ -63,3 +63,10 @@ html, body {
     width: fit-content;
     text-align: left;
 }
+
+.heading-directions {
+    font-size: 2em;
+    margin: 1em auto 0.5em;
+    width: fit-content;
+    text-decoration: underline;
+}
