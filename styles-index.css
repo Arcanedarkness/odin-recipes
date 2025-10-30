@@ -32,6 +32,7 @@
     border-style: inset;
     box-shadow: 0 7px lightblue;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .recipe-list-item-button:hover{
