@@ -1,7 +1,8 @@
 /* styles-index.css */
 
 * {
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: "Courier New", sans-serif;
 }
 
 #title {
